@@ -1,4 +1,4 @@
 # FirstRepo
-This is my first repository.
+This Is My First Repository.
 <br>
 Author - Mohd Afshan
