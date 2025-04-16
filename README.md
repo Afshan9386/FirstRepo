@@ -1,4 +1,4 @@
 # FirstRepo
 This Is My First Repository.
 <br>
-Author - Mohd Afshan
+Author - Mohd Afshan khan
